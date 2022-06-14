@@ -1,0 +1,156 @@
+body{
+    background-image: url(../Images/fond.png);
+    margin: 0;
+}
+header{
+    background-color: #25B3B4;
+    margin-top: 75px;
+    border: solid 4px #2B9AA0;
+}
+.img1{
+    width: 100px;
+    margin: auto;
+    position: relative;
+    right: 50px;
+}
+ul{
+    text-align: center;
+    padding-bottom: 15px;
+    position: relative;
+    right: 25px;
+}
+.a1{
+    text-decoration: none;
+    padding: 12px;
+    color: white;
+}
+li{
+    display: inline;
+}
+.sec1{
+    width: 500px;
+    margin: auto;
+    padding-top: 15px;
+}
+h2{
+    text-align: center;
+    color: #454A54;
+}
+.p1{
+    text-align: center;
+    color: #4F5E65;
+    font-size: 0.9em;
+}
+.sec2{
+    margin-top: 40px;
+}
+.today{
+    width: 500px;
+    background-color: #B6DEDC;
+    padding-left: 30px;
+    margin-left: 280px;
+    position: relative;
+    left: 280px;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+    font-size: 2.3em;
+    padding-top: 30px;
+    color: #495059;
+}
+.span1{
+    color: #319DA3;
+}
+.crusty1{
+    width: 220px;
+    display: inline-block;
+    padding-right: 20px;
+    padding-bottom: 35px;
+    position: relative;
+    bottom: 50px;
+}
+.crusty2{
+    width: 220px;
+    display: inline-block;
+    padding-bottom: 35px;
+}
+.h31{
+    text-align: center;
+    color: #454A54;
+}
+.p2{
+    color: #555F67;
+    font-size: 0.9em;
+}
+.img2{
+    float: left;
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    padding-right: 10px;
+}
+button{
+    color: white;
+    background-color: #2B9AA0;
+    border: 0;
+    padding: 7px;
+    position: relative;
+    left: 135px;
+}
+.news{
+    width: 170px;
+    height: 680px;
+    background-color: #34B1B2;
+    padding-left: 30px;
+    padding-right: 20px;
+    position: relative;
+    left: 280px;
+    display: inline-block;
+    top: -72px;
+    margin-left: 13px;
+    border: solid 4px #2B9AA0;
+}
+.img3{
+    position: relative;
+    left: 125px;
+    bottom: 30px;
+}
+.h32, .p3{
+    position: relative;
+    bottom: 100px;
+    color: #F5FBFC;
+}
+.p3{
+    font-size: 0.9em;
+}
+.p5{
+    position: relative;
+    bottom: 100px;
+    color: #B6DEDC;
+    font-size: 0.9em;
+}
+.span2{
+    color: #B6DEDC;
+}
+.img4{
+    width: 40px;
+    height: 40px;
+    margin-left: 448px;
+    margin-top: 20px;
+    position: relative;
+    left: 490px;
+}
+.p4{
+    font-size: 0.6em;
+    text-align: center;
+}
+.a2, .a3{
+    text-decoration: none;
+}
+.a3{
+    color: #7066A7;
+}
+footer{
+    margin-bottom: 20px;
+}
